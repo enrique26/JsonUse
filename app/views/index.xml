@@ -1,0 +1,6 @@
+<Alloy>
+	<Window class="container">
+		<TableView id="display"></TableView>
+	</Window>
+	<!--<Menu id="menu"></Menu>-->
+</Alloy>

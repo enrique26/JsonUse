@@ -1,0 +1,11 @@
+".container": {
+	backgroundColor:"white"
+},
+"#display": {
+	width: Ti.UI.SIZE,
+	height: Ti.UI.SIZE,
+	layout:'vertcal',
+	color: "#000"
+}
+
+ 
